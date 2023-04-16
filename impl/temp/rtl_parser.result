@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "D:/bellek_tasarim/src/memory.v",
+  "InstLine" : 1,
+  "InstName" : "dual_port_memory",
+  "ModuleFile" : "D:/bellek_tasarim/src/memory.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "dual_port_memory"
+ }
+]
